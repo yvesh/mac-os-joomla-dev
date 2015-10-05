@@ -5,5 +5,5 @@
 * [XCode](xcode.md)
 * [Brew](brew.md)
 * [iTerm2](iterm2.md)
-* Zsh
+* [Zsh](zsh.md)
 
