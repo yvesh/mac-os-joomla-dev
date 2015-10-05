@@ -8,6 +8,6 @@ With Homebrew Cask you can install GUI applications with brew on the command lin
 
 ### Usage
 
-brew cask install google-chrome
+```brew cask install google-chrome```
 
 
