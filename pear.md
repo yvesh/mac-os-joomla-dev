@@ -1,6 +1,6 @@
 # PEAR - PHP Extension and Application Repository
 
-PEAR is still one of the most used package managers (Like CPAN for Perl) for PHP.
+PEAR is a package managers (Like CPAN for Perl) for PHP.
 
 ### Installation 
 
