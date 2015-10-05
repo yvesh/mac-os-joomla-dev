@@ -12,5 +12,5 @@
 * [GUI Tools](gui_tools.md)
 * [PHPStorm](phpstorm.md)
 * [Composer](composer.md)
-* Node.js
+* [Node.js](nodejs.md)
 
