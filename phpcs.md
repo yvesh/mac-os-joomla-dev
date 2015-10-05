@@ -1,2 +1,2 @@
-# PHPCs
+# PHP Code Sniffer
 
