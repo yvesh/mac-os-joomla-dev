@@ -15,14 +15,17 @@ cd ~/Library/Preferences/WebIde90/codestyles && \
 wget -O joomla.xml https://raw.githubusercontent.com/joomla/coding-standards/master/IDE/joomla_phpstorm.xml
 ```
 
-Now open the Preferences (Edit -> Preferences) and select Editor -> Code Style.
+Now open the Preferences (PhpStorm -> Preferences) and select Editor -> Code Style.
 
 Choose "Joomla" in the Scheme select and apply the changes.
 
 ### Code Sniffer
 
+In the Preferences navigate to Languages & Frameworks -> PHP -> Code Sniffer and click on ... next to the select. 
 
+In it set the phpcs path to ```/usr/bin/phpcs``` and click on validate.
 
+Set the maximimum number of messages to 100 and the total process time to 30.
 
 ### Alternatives
 
