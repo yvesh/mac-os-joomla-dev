@@ -15,6 +15,10 @@ cd ~/Library/Preferences/WebIde90/codestyles && \
 wget -O joomla.xml https://raw.githubusercontent.com/joomla/coding-standards/master/IDE/joomla_phpstorm.xml
 ```
 
+Now open the Preferences (Edit -> Preferences) and select Editor -> Code Style.
+
+Choose "Joomla" in the Scheme select and apply the changes.
+
 ### Code Sniffer
 
 
