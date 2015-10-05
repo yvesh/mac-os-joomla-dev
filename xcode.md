@@ -4,7 +4,7 @@ For the command line tools (like git etc.) you need to install XCode from the Ap
 
 After installing just type 
 
-```git```
+```git ```
 
 into the Terminal. After this the license dialog which you need to agree to, will show up.
 
