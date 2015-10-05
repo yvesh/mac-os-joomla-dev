@@ -30,6 +30,8 @@ Moom - Move and Zoom windows around (Split view etc.)
 
 Trello - Card based project task tool
 
+Waffle.io - GitHub driven project management
+
 Time Sink - How much time do you spent in an application
 
 ### Cloud tools
