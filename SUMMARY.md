@@ -8,7 +8,7 @@
 * [Zsh](zsh.md)
 * [Pear](pear.md)
 * [PHPCS](phpcs.md)
-* [Github](github.md)
+* [GitHub](github.md)
 * [GUI Tools](gui_tools.md)
 * [PHPStorm](phpstorm.md)
 
