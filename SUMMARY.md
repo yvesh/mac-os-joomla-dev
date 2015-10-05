@@ -11,4 +11,5 @@
 * [GitHub](github.md)
 * [GUI Tools](gui_tools.md)
 * [PHPStorm](phpstorm.md)
+* Composer
 
