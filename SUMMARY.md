@@ -4,5 +4,5 @@
 * [System Preferences](chapter1.md)
 * [XCode](xcode.md)
 * [Brew](brew.md)
-* iTerm2
+* [iTerm2](iterm2.md)
 
