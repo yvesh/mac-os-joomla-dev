@@ -7,5 +7,5 @@
 * [iTerm2](iterm2.md)
 * [Zsh](zsh.md)
 * [Pear](pear.md)
-* PHPCs
+* [PHPCs](phpcs.md)
 
