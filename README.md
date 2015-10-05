@@ -5,4 +5,4 @@ In this tutorial we are going to cover the tools used for developing Joomla appl
 
 All instructions are tested on Yosemite and El Capitan.
 
-Contributions / Feedback is welcome! This book is publicly available on Github!
+Contributions / Feedback is welcome! This book is publicly available on GitHub!
