@@ -6,4 +6,9 @@ After installing just type
 
 ```git```
 
-i
+into the Terminal. After this the license dialog which you need to agree to, will show up.
+
+You can also install the complete XCode command line tools (like C-Compiler etc) with:
+
+```xcode-select --install```
+
