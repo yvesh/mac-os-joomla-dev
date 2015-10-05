@@ -15,6 +15,11 @@ cd ~/Library/Preferences/WebIde90/codestyles && \
 wget -O joomla.xml https://raw.githubusercontent.com/joomla/coding-standards/master/IDE/joomla_phpstorm.xml
 ```
 
+### Code Sniffer
+
+
+
+
 ### Alternatives
 
 Netbeans, Eclipse, vi or any other editor
