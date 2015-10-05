@@ -4,7 +4,7 @@
 * [System Preferences](chapter1.md)
 * [XCode](xcode.md)
 * [Brew](brew.md)
-   * Cask
+   * [Cask](cask.md)
 * [iTerm2](iterm2.md)
 * [Zsh](zsh.md)
 * [Pear](pear.md)
