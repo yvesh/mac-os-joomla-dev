@@ -1,4 +1,8 @@
-My Awesome Book
+Setup your Mac for Joomla! development
 =======
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+In this tutorial we are going to cover the tools used for developing Joomla applications and some other useful tools for Mac OS.
+
+All instructions are tested on Yosemite and El Capitan.
+
+Contributions / Feedback is welcome! This book is publicly available on Github!
