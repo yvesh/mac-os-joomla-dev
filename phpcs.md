@@ -5,6 +5,8 @@ With **phpcs** you can check if your code matches the [Joomla Coding Standards](
 
 ### Installation
 
+#### With Pear (not for El Capitan)
+
 The current Joomla! code style rules still need version 1.5.6 of phpcs. Install it using pear with the following command:
 
 ```pear install PHP_CodeSniffer-1.5.6```
@@ -15,6 +17,12 @@ After that we have to install the Joomla code style rules:
 
 For more details see also the [Joomla Coding Standards Github repository](https://github.com/joomla/coding-standards)
 
+
+#### Composer
+
+First install composer (See chapter Composer)
+
+composer global require 
 
 ### Usage
 
