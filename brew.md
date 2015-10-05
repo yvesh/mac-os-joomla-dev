@@ -16,6 +16,10 @@ This runs curl to get the installer script from GitHub and uses ruby (pre-instal
 
 Just type brew to see a basic list of commands. It's pretty straight forward and if you know Apt you are going to feel home instantly.
 
+Let us start by installing wget, a simple tool for downloading files. 
+
+```brew install wget```
+
 ##Alternatives
 
 Fink, Macports
