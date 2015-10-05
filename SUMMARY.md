@@ -9,5 +9,5 @@
 * [Pear](pear.md)
 * [PHPCS](phpcs.md)
 * [Github](github.md)
-* GUI Tools
+* [GUI Tools](gui_tools.md)
 
