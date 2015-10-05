@@ -11,7 +11,7 @@
 * [PHPCS](phpcs.md)
 * [GitHub](github.md)
 * [GUI Tools](gui_tools.md)
-* [PHPStorm](phpstorm.md)
+* [PhpStorm](phpstorm.md)
 * [Composer](composer.md)
 * [Node.js](nodejs.md)
 
