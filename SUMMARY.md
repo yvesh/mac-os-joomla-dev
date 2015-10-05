@@ -6,5 +6,5 @@
 * [Brew](brew.md)
 * [iTerm2](iterm2.md)
 * [Zsh](zsh.md)
-* Pear
+* [Pear](pear.md)
 
