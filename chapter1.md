@@ -11,7 +11,7 @@
 defaults write com.apple.finder AppleShowAllFiles YES
 
 # Show the ~/Library folder
-†
+chflags nohidden ~/Library
 
 
 
