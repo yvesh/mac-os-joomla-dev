@@ -24,6 +24,8 @@ First install composer (See chapter Composer)
 
 composer global require 
 
+If you added the composer binary directory to your $PATH you can now use phpcs as normal command.
+
 ### Usage
 
 You can use phpcs as a standalone program, but most times you just want to integrate it into PHPStorm.
