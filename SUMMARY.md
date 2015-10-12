@@ -16,4 +16,5 @@
 * [Node.js](nodejs.md)
 * [GUI Tools](gui_tools.md)
 * [Docker](docker.md)
+* Vagrant
 
