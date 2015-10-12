@@ -22,7 +22,7 @@ For more details see also the [Joomla Coding Standards Github repository](https:
 
 First install composer (See chapter Composer)
 
-composer global require 
+composer global require squizlabs/php_codesniffer
 
 If you added the composer binary directory to your $PATH you can now use phpcs as normal command.
 
