@@ -9,7 +9,7 @@ First, the bash version that Mac OS ships is pretty old (just take a look at bas
 See ["Why Zsh is Cooler than your shell"](http://de.slideshare.net/jaguardesignstudio/why-zsh-is-cooler-than-your-shell-16194692) for more on this topic.
 
 
-## Installation
+### Installation
 
 Use brew to install it
 
@@ -26,7 +26,7 @@ Install it with:
 By default the robbyrussell theme is used, but there a lot of different ones to choose from (Change it in the .zshrc).
 
 
-## Configuration
+### Configuration
 
 Similar to the bas there is a hidden file (starting with dot) in your home directory called:
 
@@ -35,13 +35,13 @@ Similar to the bas there is a hidden file (starting with dot) in your home direc
 In it you can set up you can set the theme and other options for the zsh. Or setup any other task which should get executed, when you open a new instance (like aliases, exporting editor etc.)
 
 
-## Switch to Zsh
+### Switch to Zsh
 
 Change your default shell with
 
 chsh -s /bin/zsh
 
 
-## Alternatives
+### Alternatives
 
 Bash, Sh, Kornshell
