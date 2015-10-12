@@ -12,7 +12,7 @@
 * [GitHub](github.md)
 * [PhpStorm](phpstorm.md)
 * [Webserver](webserver.md)
-* [Node.js](nodejs.md)
 * [Composer](composer.md)
+* [Node.js](nodejs.md)
 * [GUI Tools](gui_tools.md)
 
