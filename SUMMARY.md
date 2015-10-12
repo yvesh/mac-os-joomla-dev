@@ -10,9 +10,9 @@
 * [Pear](pear.md)
 * [PHPCS](phpcs.md)
 * [GitHub](github.md)
-* [GUI Tools](gui_tools.md)
 * [PhpStorm](phpstorm.md)
 * [Webserver](webserver.md)
 * [Composer](composer.md)
+* [GUI Tools](gui_tools.md)
 * [Node.js](nodejs.md)
 
