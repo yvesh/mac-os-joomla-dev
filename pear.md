@@ -10,7 +10,7 @@ On Mac OS PHP is installed by default, but PEAR is not. You can now either downl
 
 Because of the new system integrity protection it is currently not possible to use the integrated install script. 
 
-For disabling it (you can enable it again after the installation) see [this guide](http://www.macworld.com/article/2986118/security/how-to-modify-system-integrity-protection-in-el-capitan.html).
+For disabling the rootless mode (you can enable it again after the installation) see [this guide](http://www.macworld.com/article/2986118/security/how-to-modify-system-integrity-protection-in-el-capitan.html).
 
 #### Mac OS installer
 
