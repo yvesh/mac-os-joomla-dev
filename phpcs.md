@@ -22,12 +22,19 @@ For more details see also the [Joomla Coding Standards Github repository](https:
 
 First install composer (See chapter Composer)
 
-composer global require squizlabs/php_codesniffer
+composer global require squizlabs/php_codesniffer=1.5.6
 
 If you added the composer binary directory to your $PATH you can now use phpcs as normal command.
 
+#### Manual
+
+You can also install it with curl
+
+```curl -OL https://squizlabs.github.io/PHP_CodeSniffer/phpcs.phar
+php phpcs.phar -h```
+
 ### Usage
 
-You can use phpcs as a standalone program, but most times you just want to integrate it into PHPStorm.
+You can use phpcs as *Üa standalone program, but most times you just want to integrate it into PHPStorm.
 
 ```phpcs --standard=/usr/lib/php/pear/PHP/CodeSniffer/Standards/Joomla path/to/code.php```
