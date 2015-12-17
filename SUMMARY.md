@@ -11,6 +11,7 @@
 * [PHPCS](phpcs.md)
 * [GitHub](github.md)
 * [PhpStorm](phpstorm.md)
+   * Debugging
 * [Webserver](webserver.md)
 * [Composer](composer.md)
 * [Node.js](nodejs.md)
